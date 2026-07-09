@@ -24,11 +24,19 @@ This application was co-developed as a collaborative project. My specific techni
 
 ## Technical Stack
 
-* **Frontend / GUI:** Java (Swing, JFrame)
-* **Database Management:** MySQL
-* **Database Connectivity:** JDBC (Java Database Connectivity)
-* **Third-Party Integrations:** EmailJS API (Password Recovery)
-* **Development Environments:** NetBeans IDE, MySQL Workbench
+## Technical Stack
+
+### Frontend & GUI
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Database Management & Connectivity
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC_Connectivity-437291?style=for-the-badge&logo=data-grip&logoColor=white)
+
+### Third-Party Integrations & Tools
+![EmailJS](https://img.shields.io/badge/EmailJS_API-F15A24?style=for-the-badge&logo=email&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 
 ---
 
