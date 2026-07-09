@@ -24,8 +24,6 @@ This application was co-developed as a collaborative project. My specific techni
 
 ## Technical Stack
 
-## Technical Stack
-
 ### Frontend & GUI
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
